@@ -16,7 +16,7 @@ import ReactFullpage from "@fullpage/react-fullpage";
 const Home = observer((props) => {
     const router = useRouter();
 
-    return <>1234</>;
+    return <>Test</>;
 });
 
 export default Home;
